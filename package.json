@@ -1,0 +1,25 @@
+{
+  "name": "shopify_soft_eng_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aseelaldallal/shopify_soft_eng_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aseelaldallal/shopify_soft_eng_app/issues"
+  },
+  "homepage": "https://github.com/Aseelaldallal/shopify_soft_eng_app#readme"
+}
